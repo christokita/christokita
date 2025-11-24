@@ -6,7 +6,6 @@ I am a complex systems scientist and computational {ecologist, social scientist}
 - 💼 **Past workplaces**: Stripe, Phylum, IDA Science & Technology Policy Institute
 - 💭 **Thinks about**: social networks, complex systems, and collective behavior in societies—from ant and bee colonies to cities and social media
 - 🎓 **Alma maters**: Princeton (PhD), Yale (BS), LAUSD (K-12)
-- 😄 **Pronouns**: he/him
 - 🏄‍♂️ **Non-technical interests**: surfing, weight lifting, LA sports (go Dodgers + Lakers!), housing policy, CA politics
 
 

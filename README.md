@@ -3,7 +3,7 @@
 I am a complex systems scientist and computational {ecologist, social scientist} turned data + AI scientist for good.
 
 - 🧑‍💻 **Current role**: Senior Appied AI/ML Scientist at Sprout Social
-- 💼 **Past workplaces**: Stripe, Phylum, IDA Science & Technology Policy Institute
+- 💼 **Past workplaces**: Stripe, Phylum, Princeton University, IDA Science & Technology Policy Institute
 - 💭 **Thinks about**: social networks, complex systems, and collective behavior in societies—from ant and bee colonies to cities and social media
 - 🎓 **Alma maters**: Princeton (PhD), Yale (BS), LAUSD (K-12)
 - 🏄‍♂️ **Non-technical interests**: surfing, weight lifting, LA sports (go Dodgers + Lakers!), housing policy, CA politics

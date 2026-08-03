@@ -10,4 +10,4 @@ stops at Stripe, Phylum, Princeton (PhD), Yale (BS), and IDA's Science & Technol
 2. 🗳️ **[Party systems in US elections](https://github.com/christokita/us-party-system-clustering)** —
    unsupervised learning on election returns to find the eras of modern American politics.
 
-🏄‍♂️ Off-screen: surfing, lifting, LA Sports (Dodgers + Lakers + Rams), and housing policy in LA.
+🏄‍♂️ Off-screen: surfing, weight lifting, LA Sports (Dodgers + Lakers + Rams), and housing policy in LA.

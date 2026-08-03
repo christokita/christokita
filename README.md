@@ -1,14 +1,13 @@
 ## Hi there 🤙
 
-I am a complex systems scientist and computational {ecologist, social scientist} turned data + AI scientist for good.
+The pinned repos below are mostly from my research life: ants, echo chambers, how news spreads, and other agent-based models. These days I work as an applied scientist focused on generative AI at Sprout Social, after
+stops at Stripe, Phylum, Princeton (PhD), Yale (BS), and IDA's Science & Technology Policy Institute.
 
-- 🧑‍💻 **Current role**: Senior Appied AI/ML Scientist at Sprout Social
-- 💼 **Past workplaces**: Stripe, Phylum, Princeton University, IDA Science & Technology Policy Institute
-- 💭 **Thinks about**: social networks, complex systems, and collective behavior in societies—from ant and bee colonies to AI agents and social media to cities
-- 🎓 **Alma maters**: Princeton (PhD), Yale (BS), LAUSD (K-12)
-- 🏄‍♂️ **Non-technical interests**: surfing, weight lifting, LA sports (go Dodgers + Lakers!), housing policy, CA politics
+**Current side projects:**
 
+1. 🕸️ **Population density and social networks** — an agent-based model of how
+   density shapes network structure and information flow
+2. 🗳️ **[Party systems in US elections](https://github.com/christokita/us-party-system-clustering)** —
+   unsupervised learning on election returns to find the eras of modern American politics
 
-Outside of my day job, here are current side projects you might find me working on
-1. 🕸️ **Agent-based model of social networks**: simulations examining how population density affects social network structure and information flow in social systems
-2. 🗳️ **Detecting realignments in US presidential elections, 1960-2024**: using unsupervised learning on county-level election data to find different eras of modern American politics
+🏄‍♂️ Off-screen: surfing, lifting, LA Sports (Dodgers + Lakers + Rams), and housing policy in LA.

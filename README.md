@@ -5,9 +5,9 @@ stops at Stripe, Phylum, Princeton (PhD), Yale (BS), and IDA's Science & Technol
 
 **Current side projects:**
 
-1. 🕸️ **Population density and social networks** — an agent-based model of how
-   density shapes network structure and information flow
+1. 🕸️ **[Population density and social networks](https://github.com/christokita/population-density-networks)** — an agent-based model of how
+   density shapes network structure and information flow, with implications for why cities are engines of change.
 2. 🗳️ **[Party systems in US elections](https://github.com/christokita/us-party-system-clustering)** —
-   unsupervised learning on election returns to find the eras of modern American politics
+   unsupervised learning on election returns to find the eras of modern American politics.
 
 🏄‍♂️ Off-screen: surfing, lifting, LA Sports (Dodgers + Lakers + Rams), and housing policy in LA.

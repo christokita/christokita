@@ -1,7 +1,7 @@
 ## Hi there 🤙
 
 The pinned repos below are mostly from my research life: ants, echo chambers, how news spreads, and other agent-based models. These days I work as an applied scientist focused on generative AI at Sprout Social, after
-stops at Stripe, Phylum, Princeton (PhD), Yale (BS), and IDA's Science & Technology Policy Institute.
+stops at Stripe, Phylum, and Princeton (PhD).
 
 **Current side projects:**
 
